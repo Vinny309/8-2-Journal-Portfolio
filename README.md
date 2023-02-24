@@ -1,1 +1,9 @@
 # 8-2-Journal-Portfolio
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs can be done through talking to users and listening to what they want or need . In Module 3 , there was a focus group between the product owner and some SNHU Travel customers . The product owner asked about what they would like to see and listened to their responses . This gave the Product Owner a place to start with what the users are looking for in a product . The Product Owner then created user stories based on what the customers said and included things they would like to see . By doing this , the user stories help to implement what the users need out of the product .
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+Various project management strategies can be used to develop programs . Among these is the waterfall methodology . Using this methodology , specific strategies can be selected depending on the needs . Some alternatives include iterative , prototyping , agile , and incremental approaches . It is important to incorporate Crystal , Scrum , Extreme Programming , etc . as the most popular agile processes . In terms of testing , planning , and integration , these approaches and processes are exceptional .
+
+What does it mean to be a good team member in software development?
+To be a good team member in software development you must be able to communicate effectively , understand technical tasks and be able to explain them , work independently and collaboratively , and have common goals with other team members . There must also be a high level of performance and professionalism . You should know how to give and receive feedback and own your work . As with any other team , you should trust other team members .
